@@ -1,0 +1,329 @@
+# Addon Name: Flix2Kodi
+# Addon id: plugin.video.flix2kodi
+# Addon Provider: zero
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi-Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2015-11-04 18:30+0100\n"
+"PO-Revision-Date: 2017-10-18 13:15+0300\n"
+"Last-Translator: A. Dambledore\n"
+"Language-Team: Eng2Heb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+
+msgctxt "#11000"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "#11001"
+msgid "Username"
+msgstr "שם משתמש"
+
+msgctxt "#11002"
+msgid "Password"
+msgstr "סיסמה"
+
+msgctxt "#11100"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "#11101"
+msgid "Browser"
+msgstr "סייר"
+
+msgctxt "#111011"
+msgid "Chrome"
+msgstr "דפדפן כרום"
+
+msgctxt "#111012"
+msgid "Chromelauncher"
+msgstr "הפעלת כרום"
+
+msgctxt "#111013"
+msgid "Internet Explorer"
+msgstr "אינטרנט אקספלורר"
+
+msgctxt "#111014"
+msgid "Edge"
+msgstr "דפדפן אדג\\'"
+
+msgctxt "#111015"
+msgid "Safari"
+msgstr "דפדפן ספארי"
+
+msgctxt "#111016"
+msgid "Chromium"
+msgstr "כרומיום"
+
+msgctxt "#111017"
+msgid "Android"
+msgstr "אנדרואיד"
+
+msgctxt "#11102"
+msgid "Update library after adding"
+msgstr "עדכן ספריה לאחר הוספה"
+
+msgctxt "#11200"
+msgid "Profile settings"
+msgstr "הגדרות משתמש"
+
+msgctxt "#11201"
+msgid "Single-user account"
+msgstr "חשבון משתמש יחיד"
+
+msgctxt "#11202"
+msgid "Show profile selection on each start"
+msgstr "הצג את בחירת פרופיל בכל הפעלה"
+
+msgctxt "#12000"
+msgid "Advanced"
+msgstr "מתקדם"
+
+msgctxt "#12001"
+msgid "Debug logging"
+msgstr "רישום איתור באגים"
+
+msgctxt "#12002"
+msgid "Library path"
+msgstr "נתיב לספרייה"
+
+msgctxt "#12101"
+msgid "Disable lirc on playback"
+msgstr "בטל LIRC בניגון"
+
+msgctxt "#12102"
+msgid "Alternate remote control management"
+msgstr "שלט חלופי ניהול"
+
+msgctxt "#13000"
+msgid "Views"
+msgstr "תצוגות"
+
+msgctxt "#13001"
+msgid "Get covers & fanart images from TMDb"
+msgstr "קבל עטיפות ותמונות פאנארט מ-TMDb"
+
+msgctxt "#13002"
+msgid "Browse TV-Shows instead of autoplaying"
+msgstr "עיין בסדרות במקום ניגון אוטומטי"
+
+msgctxt "#13003"
+msgid "Items per page"
+msgstr "פריטים בכל עמוד"
+
+msgctxt "#13004"
+msgid "Sync viewstate with netflix"
+msgstr "סינכרון מצב צפייה עם נטפליקס"
+
+msgctxt "#13100"
+msgid "Appearance"
+msgstr "מראה"
+
+msgctxt "#13101"
+msgid "Force view"
+msgstr "אלץ צפייה"
+
+msgctxt "#13102"
+msgid "View ID - videos"
+msgstr "הצג מזהה - וידאו"
+
+msgctxt "#13103"
+msgid "View ID - episodes"
+msgstr "הצג מזהה - פרקים"
+
+msgctxt "#13104"
+msgid "View ID - viewing activity"
+msgstr "הצג מזהה - פעילות הצפייה"
+
+msgctxt "#14000"
+msgid "User data"
+msgstr "נתוני המשתמש"
+
+msgctxt "#14001"
+msgid "Delete cache"
+msgstr "נקה מטמון"
+
+msgctxt "#14002"
+msgid "Delete cookies / session"
+msgstr "מחיקת עוגיות / הפעלה"
+
+msgctxt "#14003"
+msgid "Reset Addon"
+msgstr "איפוס ההרחבה"
+
+msgctxt "#30100"
+msgid "Movies"
+msgstr "סרטים"
+
+msgctxt "#30101"
+msgid "TV shows"
+msgstr "תוכניות טלוויזיה"
+
+msgctxt "#30102"
+msgid "Suggestions"
+msgstr "הצעות"
+
+msgctxt "#30103"
+msgid "Who's watching?"
+msgstr "מי צופה?"
+
+msgctxt "#30104"
+msgid "My list"
+msgstr "הרשימה שלי"
+
+msgctxt "#30105"
+msgid "Viewing activity"
+msgstr "הצגת פעילות"
+
+msgctxt "#30106"
+msgid "Latest"
+msgstr "אחרון"
+
+msgctxt "#30107"
+msgid "All shows"
+msgstr "כל הסדרות"
+
+msgctxt "#30108"
+msgid "Genres"
+msgstr "סגנונות"
+
+msgctxt "#30109"
+msgid "Search"
+msgstr "חיפוש"
+
+msgctxt "#30110"
+msgid "Next page"
+msgstr "לעמוד הבא"
+
+msgctxt "#30111"
+msgid "Search"
+msgstr "חיפוש"
+
+msgctxt "#30112"
+msgid "Super browse"
+msgstr "עיון מיוחד"
+
+msgctxt "#30150"
+msgid "Add to library"
+msgstr "הוסף לספרייה"
+
+msgctxt "#301501"
+msgid "Remove from library"
+msgstr "הסר מהספרייה"
+
+msgctxt "#30151"
+msgid "Continue watching"
+msgstr "צפייה מתמשכת"
+
+msgctxt "#30152"
+msgid "Show seasons"
+msgstr "הצג עונות"
+
+msgctxt "#30154"
+msgid "Remove from my list"
+msgstr "הסר מהרשימה שלי"
+
+msgctxt "#30155"
+msgid "Add to my list"
+msgstr "הוסף לרשימה שלי"
+
+msgctxt "#30156"
+msgid "Similar Movies"
+msgstr "סרטים דומים"
+
+msgctxt "#30157"
+msgid "Similar TV Shows"
+msgstr "סדרות דומות"
+
+msgctxt "#30200"
+msgid "Connecting Netflix"
+msgstr "מתחבר לנטפליקס"
+
+msgctxt "#30201"
+msgid "Preparing login"
+msgstr "מכין התחברות"
+
+msgctxt "#30202"
+msgid "Sending login details"
+msgstr "שליחת פרטי ההתחברות"
+
+msgctxt "#30203"
+msgid "Loading profile"
+msgstr "טוען פרופיל"
+
+msgctxt "#30204"
+msgid "Complete"
+msgstr "להשלים"
+
+msgctxt "#30205"
+msgid "Loading metadata"
+msgstr "טוען מידע מטא"
+
+msgctxt "#30300"
+msgid "Sorry! Netflix is not available in your country yet."
+msgstr "מצטערים! נטפליקס עדיין אינו זמין במדינה שלך."
+
+msgctxt "#30301"
+msgid "Cookies have been deleted."
+msgstr "עוגיות נמחקו."
+
+msgctxt "#30302"
+msgid "Session has been deleted."
+msgstr "הסטוריית ההפעלה נמחקה."
+
+msgctxt "#30303"
+msgid "You are not logged in. Check your credentials and/or restart the addon!"
+msgstr "אתה לא מחובר. בדוק את פרטי ההתחברות שלך ו /או להפעיל מחדש את הרחבה!"
+
+msgctxt "#30304"
+msgid "Multiple profiles found. Choose your profile!"
+msgstr "נמצאו פרופילים מרובים. בחר את הפרופיל שלך!"
+
+msgctxt "#30306"
+msgid "No results found!"
+msgstr "אין תוצאות!"
+
+msgctxt "#30307"
+msgid "Really reset the addon?"
+msgstr "באמת לאפס את הרחבה?"
+
+msgctxt "#30308"
+msgid "Addon has been reset!"
+msgstr "ההרחבה אופסה!"
+
+msgctxt "#30309"
+msgid "Cache has been deleted!"
+msgstr "המטמון נמחק!"
+
+msgctxt "#50001"
+msgid "No browser selected in settings!"
+msgstr "לא נבחר דפדפן בהגדרות!"
+
+msgctxt "#50002"
+msgid "Sorry!"
+msgstr "סליחה!"
+
+msgctxt "#50003"
+msgid "Flix2Kodi crashed."
+msgstr "ההרחבה Flix2Kodi קרסה."
+
+msgctxt "#50004"
+msgid "Try to refresh your login?"
+msgstr "לנסות לרענן את ההתחברות שלך?"
+
+msgctxt "#50005"
+msgid "If your browser does not launch, something went wrong. Push BACK to leave this dialog."
+msgstr "אם הדפדפן שלך אינו מופעל, משהו השתבש. לחץ על \\'חזור\\' כדי לצאת מתיבת דו - שיח זו."
+
+msgctxt "#50006"
+msgid "Login refreshed. please try again."
+msgstr "שגיאה במהלך ההתחברות. נא לנסות שנית."
+
+msgctxt "#99999"
+msgid ""
+msgstr ""
